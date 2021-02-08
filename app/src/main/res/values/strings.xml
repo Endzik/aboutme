@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Andrzej Goetzendorf-Grabowski</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean finibus facilisis odio a ullamcorper. Curabitur at metus dolor. In vulputate volutpat sapien, sit amet faucibus ex fringilla vel. Nam bibendum urna non ligula elementum, et convallis nunc ullamcorper. Fusce ut ex vitae lacus aliquet facilisis. Donec consectetur, nibh id tristique porta, turpis orci ullamcorper purus, at pharetra leo sem vel sapien. Donec purus diam, sagittis quis nunc sit amet, pretium dapibus quam. Pellentesque pulvinar mauris id luctus commodo. Nam nec egestas nunc.\n
+Nam finibus ligula eget imperdiet condimentum. Curabitur sodales, quam id faucibus condimentum, erat metus sodales nisi, nec convallis nibh risus vitae quam. Sed non sollicitudin ipsum. Integer euismod nisl est, at pharetra odio vehicula id. Pellentesque euismod, sapien sed blandit iaculis, nulla erat auctor nisl, vel euismod massa nisi quis diam. Phasellus sed odio justo. Aliquam ipsum dui, accumsan id tortor a, eleifend feugiat enim. Aenean blandit dictum aliquam. Mauris consequat finibus rhoncus. Fusce vulputate, felis iaculis convallis rutrum, magna leo imperdiet odio, at euismod libero augue eu ante. Nullam fermentum dictum tortor, eget viverra arcu molestie sed. Integer nec ante nec eros interdum dapibus a id velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
